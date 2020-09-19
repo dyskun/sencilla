@@ -30,6 +30,7 @@ date_format: "%b %-d, %Y"
 
 subscribe: False
 
+theme: sencilla
 
 # Exclude these files from production site
 exclude:
